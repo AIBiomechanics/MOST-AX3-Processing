@@ -12,6 +12,8 @@ Assumes filenames are in the form 'MOSTID_*.csv'
 Returns a csv with activity minutes per day for each MOST participants to current working directory
 
 Created by Peter Schaefer at the University of Florida AI Biomechanics Laboratory
+
+Visit us at https://costello.mae.ufl.edu/
 """
 
 # progress log
