@@ -21,6 +21,8 @@ Returns processed files to current working directory
 Contains modified code from Openmovement (https://github.com/openmovementproject/openmovement-python) and Nimbaldetach (https://github.com/nimbal/nimbaldetach)
 
 Created by Peter Schaefer at the University of Florida AI Biomechanics Laboratory
+
+Visit us at https://costello.mae.ufl.edu/
 """
 
 
